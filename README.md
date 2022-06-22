@@ -7,6 +7,8 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (**UGS-
 
 ![diagram](imgs/diagram.png)
 
+<br>
+
 ## UGS-1m product 
 
 The UGS-1m product provides the fine-grained UGS maps of 34 major cities/areas in China, which is generated based on a deep learning (DL) framework. 
@@ -26,15 +28,20 @@ The product is now available at [**Zenodo**](https://doi.org/10.5281/zenodo.6155
 ```
 ![UGS-1m](imgs/ugs-1m.png)
 
+<br>
+
 ## UGSet (Soon available)
 A largescale high-resolution urban green space dataset (UGSet).
 
 ![UGSet](imgs/UGSet.png)
 
+<br>
 
 ## UGSNet  (Soon available)
 ![framework](imgs/DL_framework.png)
 ![UGSNet](imgs/UGSNet.png)
+
+<br>
 
 ### Contact
 Correspondence: Mengxi Liu (liumx23@mail2.sysu.edu.cn)
