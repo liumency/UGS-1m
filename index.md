@@ -5,7 +5,7 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (UGS-1m
  - UGSet: a large benchmark dataset to support and foster the UGS research
  - UGSNet: a fully convolutional network for fine-grained UGS mapping
 
-![UGS-1m](imgs/diagram.png)
+![diagram](imgs/diagram.png)
 
 ## UGS-1m product 
 
@@ -29,13 +29,15 @@ The UGS-1m product provides the fine-grained UGS maps of 34 major cities/areas i
 ![UGS-1m](imgs/ugs-1m.png)
 
 ## UGSet 
+A largescale high-resolution urban green space dataset (UGSet).
+Open available soon.
 
-updated soon
+![UGSet](imgs/UGSet.png)
 
 
 ## UGSNet
+Code available soon.
 
-updated soon
 
 ### Contact
 Correspondence: Mengxi Liu (liumx23@mail2.sysu.edu.cn)
