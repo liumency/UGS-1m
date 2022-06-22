@@ -8,14 +8,14 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (UGS-1m
 ## UGS-1m product 
 
 The UGS-1m product provides the fine-grained UGS maps of 34 major cities/areas in China, which is generated based on a deep learning (DL) framework.
+
+### main steps 
+1. Firstly, the UGSNet will be pre-trained on the UGSet in order to get a good starting training point for the generator; 
+2. After pre-training on the UGSet, the discriminator is responsible to adapt the pre-trained UGSNet to different cities/areas through adversarial training;
+3. Finally, the UGS results of the 34 major cities/areas in China (UGS-1m) are obtained using 2,343 Google Earth images with a data frame of 7'30" in longitude and 5'00" in latitude, and a spatial resolution of nearly 1.1 meters. 
+
+
 ![UGS-1m](imgs/ugs-1m.png)
-
-### Flowchart 
-The main steps to obtain UGS-1m can be summarized as follows: 
-- Firstly, the UGSNet will be pre-trained on the UGSet in order to get a good starting training point for the generator; 
-- After pre-training on the UGSet, the discriminator is responsible to adapt the pre-trained UGSNet to different cities/areas through adversarial training;
-- Finally, the UGS results of the 34 major cities/areas in China (UGS-1m) are obtained using 2,343 Google Earth images with a data frame of 7'30" in longitude and 5'00" in latitude, and a spatial resolution of nearly 1.1 meters. 
-
 
 The UGS-1m product is now available at [zonodo](https://doi.org/10.5281/zenodo.6155516).
 
