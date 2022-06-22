@@ -37,4 +37,4 @@ A largescale high-resolution urban green space dataset (UGSet).
 ![UGSNet](imgs/UGSNet.png)
 
 ### Contact
-Correspondence: Mengxi Liu (liumx23@mail2.sysu.edu.cn)
+*Correspondence*: Mengxi Liu (liumx23@mail2.sysu.edu.cn)
