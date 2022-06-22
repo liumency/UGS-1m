@@ -7,7 +7,7 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (UGS-1m
 
 ## UGS-1m product 
 
-![UGS-1m](imgs/UGS-1m.png)
+![UGS-1m](imgs/ugs-1m.png)
 
 Urban green space (UGS) is an important component in the urban ecosystem and has great significance to the urban ecological environment. The UGS-1m product provides the fine-grained UGS maps of 34 major cities/areas in China, which is generated based on a deep learning (DL) framework.
 
@@ -38,12 +38,12 @@ The UGS-1m product is now avaluiable at [zonodo](https://doi.org/10.5281/zenodo.
 
 ## UGSet 
 
+updated soon
 
 
 ## UGSNet
 
-
-
+updated soon
 
 ### Contact
 Correspondence: Mengxi Liu (liumx23@mail2.sysu.edu.cn)
