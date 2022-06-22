@@ -9,16 +9,7 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (UGS-1m
 
 ### UGS results of the 34 major cities/areas in China (UGS-1m)
 
-
-## UGSet 
-### Example of different types of UGS samples in UGSet
-
-
-## UGSNet
-### 
-
-
-
+The UGS-1m product is now avaluiable at [zonodo](https://doi.org/10.5281/zenodo.6155516)
 ```markdown
 @dataset{qian_shi_2022_6155516,
   author       = {Qian Shi and
@@ -34,6 +25,17 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (UGS-1m
   url          = {https://doi.org/10.5281/zenodo.6155516}
 }
 ```
+
+## UGSet 
+### Example of different types of UGS samples in UGSet
+
+
+## UGSNet
+### 
+
+
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
