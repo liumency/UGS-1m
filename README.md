@@ -17,9 +17,7 @@ The product is now available at [**Zenodo**](https://doi.org/10.5281/zenodo.6155
   author       = {Qian Shi and
                   Mengxi Liu and
                   Andrea Marinoni},
-  title        = {{UGS-1m: Fine-grained urban green space mapping of 
-                   34 major cities in China based on the deep
-                   learning framework}},
+  title        = {{UGS-1m: Fine-grained urban green space mapping of  34 major cities in China based on the deep learning framework}},
   month        = feb,
   year         = 2022,
   publisher    = {Zenodo},
