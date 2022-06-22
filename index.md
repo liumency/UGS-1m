@@ -5,7 +5,7 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (UGS-1m
  - UGSet: a large benchmark dataset to support and foster the UGS research
  - UGSNet: a fully convolutional network for fine-grained UGS mapping
 
-![UGS-1m](imgs/diagram.pdf)
+![UGS-1m](imgs/diagram.png)
 
 ## UGS-1m product 
 
