@@ -7,7 +7,7 @@ The project provides 1-meter UGS maps of 34 major cities/areas in China (**UGS-1
 
 ![diagram](imgs/diagram.png)
 
-## Current Status
+## Current status
 The [**preprint**](https://essd.copernicus.org/preprints/essd-2022-75/) is currently under review for the journal [**ESSD**](https://www.earth-system-science-data.net/).
 
 ```markdown
