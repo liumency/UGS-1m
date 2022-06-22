@@ -20,21 +20,19 @@ The project provideds 1-meter UGS maps of 34 major cities/areas in China (UGS-1m
 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+@dataset{qian_shi_2022_6155516,
+  author       = {Qian Shi and
+                  Mengxi Liu and
+                  Andrea Marinoni},
+  title        = {{UGS-1m: Fine-grained urban green space mapping of 
+                   34 major cities in China based on the deep
+                   learning framework}},
+  month        = feb,
+  year         = 2022,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.6155516},
+  url          = {https://doi.org/10.5281/zenodo.6155516}
+}
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
