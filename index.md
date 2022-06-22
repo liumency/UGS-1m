@@ -31,13 +31,13 @@ The product is now available at [**zonodo**](https://doi.org/10.5281/zenodo.6155
 
 ## UGSet 
 A largescale high-resolution urban green space dataset (UGSet).
-Open available soon.
+Available soon.
 
 ![UGSet](imgs/UGSet.png)
 
 
 ## UGSNet
-Code available soon.
+Available soon.
 
 
 ### Contact
