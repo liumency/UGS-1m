@@ -48,8 +48,10 @@ The Google Earth imagery used will be available at [**OneDrive**](https://mail2s
 
 
 
-## UGSet (Soon available)
+## UGSet
 A largescale high-resolution urban green space dataset (UGSet).
+The dataset is now available at [**Onedrive**](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/EuFVXihDii5OnZB22wJATGkB0zcqNDloT3KkxUwiW3rM8g?e=vq3bpy).
+
 
 ![UGSet](imgs/UGSet.png)
 
