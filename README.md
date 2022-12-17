@@ -45,6 +45,8 @@ The product is now available at [**Zenodo**](https://doi.org/10.5281/zenodo.6155
 ```
 ![UGS-1m](imgs/ugs-1m.png)
 
+The Google Earth imagery used will be available at [**OneDrive**](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/EuILVq8vbopKu_juqg4ams8BythT7i1Oe7X-9kQaVn-LAw?e=9aBqSq)
+
 ## UGSet (Soon available)
 A largescale high-resolution urban green space dataset (UGSet).
 
