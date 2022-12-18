@@ -29,6 +29,7 @@ DOI = {10.5194/essd-2022-75}
 The UGS-1m product provides the fine-grained UGS maps of 34 major cities/areas in China, which is generated based on a deep learning (DL) framework. 
 
 The product is now available at [**Zenodo**](https://doi.org/10.5281/zenodo.6155516).
+The Google Earth imagery used will be available at [**OneDrive**](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/EuILVq8vbopKu_juqg4ams8BythT7i1Oe7X-9kQaVn-LAw?e=9aBqSq)
 
 ```markdown
 @dataset{qian_shi_2022_6155516,
@@ -43,7 +44,7 @@ The product is now available at [**Zenodo**](https://doi.org/10.5281/zenodo.6155
 ```
 ![UGS-1m](imgs/ugs-1m.png)
 
-## UGSet (Soon available)
+## UGSet
 A largescale high-resolution urban green space dataset (UGSet).
 
 ![UGSet](imgs/UGSet.png)
