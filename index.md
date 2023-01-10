@@ -32,18 +32,19 @@ DOI = {10.5194/essd-2022-75}
 The UGS-1m product provides the fine-grained UGS maps of 31 major cities in China, which is generated based on a deep learning (DL) framework. 
 
 
-The product is now available at [**Zenodo**](https://doi.org/10.5281/zenodo.6155516).
-The Google Earth imagery used will be available at [**OneDrive**](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/EuILVq8vbopKu_juqg4ams8BythT7i1Oe7X-9kQaVn-LAw?e=9aBqSq)
+The product is now available at [**ScienceDB**](https://doi.org/10.57760/sciencedb.07049).
+The Google Earth imagery used is available at [**OneDrive**](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/EuILVq8vbopKu_juqg4ams8BythT7i1Oe7X-9kQaVn-LAw?e=9aBqSq)
 
 ```markdown
-@dataset{qian_shi_2022_6155516,
-  author       = {Qian Shi and Mengxi Liu and Andrea Marinoni},
-  title        = {UGS-1m: Fine-grained urban green space mapping of 34 major cities in China based on the deep learning framework},
-  month        = feb,
-  year         = 2022,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.6155516},
-  url          = {https://doi.org/10.5281/zenodo.6155516}
+@misc{qian2023ugs1m,
+  author       = {Qian Shi and Mengxi Liu and Andrea Marinoni and Xiaoping Liu},
+  title        = {{UGS-1m: Fine-grained urban green space mapping of 31 major cities in China based on the deep learning framework}},
+  year         = 2023,
+  month        = jan,
+  publisher    = {Science Data Bank},
+  version      = {V1},
+  doi          = {10.57760/sciencedb.07049},
+  url          = https://doi.org/10.57760/sciencedb.07049
 }
 ```
 ![UGS-1m](imgs/ugs-1m.png)
