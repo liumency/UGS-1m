@@ -12,7 +12,7 @@ The project provides 1-meter UGS maps of 31 major cities in China (**UGS-1m**), 
 
 
 ## Reference
-This work has been published in [**ESSD**](https://www.earth-system-science-data.net/) [[**Paper Link**](https://essd.copernicus.org/preprints/essd-2022-75/)].
+This work has been published in [**ESSD**](https://www.earth-system-science-data.net/) [[**Paper Link**](https://essd.copernicus.org/articles/15/555/2023/)].
 
 ```markdown
 @Article{essd-15-555-2023,
