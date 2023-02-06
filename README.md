@@ -39,7 +39,7 @@ The Google Earth imagery used will be available at [**OneDrive**](https://mail2s
 ```markdown
 @misc{qian2023scidb,
   author       = {Qian Shi and Mengxi Liu and Andrea Marinoni and Xiaoping Liu},
-  title        = {{UGS-1m: Fine-grained urban green space mapping of 31 major cities in China based on the deep learning framework}},
+  title        = {UGS-1m: Fine-grained urban green space mapping of 31 major cities in China based on the deep learning framework},
   year         = 2023,
   month        = jan,
   publisher    = {Science Data Bank},
