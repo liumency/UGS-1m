@@ -11,22 +11,22 @@ The project provides 1-meter UGS maps of 31 major cities in China (**UGS-1m**), 
 
 ![diagram](imgs/diagram.png)
 
-## Current status
-The article has been accepted by the journal [**ESSD**](https://www.earth-system-science-data.net/) [[**preprint**](https://essd.copernicus.org/preprints/essd-2022-75/)].
+## Reference
+This work has been published in ESSD [**ESSD**](https://www.earth-system-science-data.net/) [[**Paper Link**](https://essd.copernicus.org/articles/15/555/2023/)].
 
 ```markdown
-@Article{essd-2022-75,
+@Article{essd-15-555-2023,
 AUTHOR = {Shi, Q. and Liu, M. and Marinoni, A. and Liu, X.},
-TITLE = {UGS-1m: Fine-grained urban green space mapping of 34 major cities in China based on the deep learning framework},
-JOURNAL = {Earth System Science Data Discussions},
-VOLUME = {2022},
-YEAR = {2022},
-PAGES = {1--23},
-URL = {https://essd.copernicus.org/preprints/essd-2022-75/},
-DOI = {10.5194/essd-2022-75}
+TITLE = {UGS-1m: fine-grained urban green space mapping of 31 major cities in China based on the deep learning framework},
+JOURNAL = {Earth System Science Data},
+VOLUME = {15},
+YEAR = {2023},
+NUMBER = {2},
+PAGES = {555--577},
+URL = {https://essd.copernicus.org/articles/15/555/2023/},
+DOI = {10.5194/essd-15-555-2023}
 }
 ```
-
 
 ## UGS-1m product 
 
