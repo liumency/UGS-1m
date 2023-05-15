@@ -11,6 +11,13 @@ The project provides 1-meter UGS maps of 31 major cities in China (**UGS-1m**), 
 ![diagram](imgs/diagram.png)
 
 
+## News
+We are continuing to update our UGS products in other regions of China through the proposed method, which will grouped by province/municipality/autonomous region!
+The updating data can be accessed from [OneDrive](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/liumx23_mail2_sysu_edu_cn/EkUvsrPrQ4lNt-R-DWfwbxIBvYUJz1WoJzoEFk6knYcJjA?e=bb5huu) for the time being.
+
+2023-05-15: The UGS data of Beijing, Tianjin, Shanghai, Chongqing, Taiwan, Hong Kong and Macau ara now available.
+
+
 ## Reference
 This work has been published in [**ESSD**](https://www.earth-system-science-data.net/) [[**Paper Link**](https://essd.copernicus.org/articles/15/555/2023/)].
 
@@ -55,7 +62,8 @@ A largescale high-resolution urban green space dataset (UGSet). The dataset is n
 ![UGSet](imgs/UGSet.png)
 
 
-## UGSNet  (Soon available)
+## UGSNet 
+The model code is now available at [Github](https://github.com/liumency/UGS-1m).
 ![framework](imgs/DL_framework.png)
 ![UGSNet](imgs/UGSNet.png)
 
