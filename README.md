@@ -55,7 +55,7 @@ A largescale high-resolution urban green space dataset (UGSet). The dataset is n
 ![UGSet](imgs/UGSet.png)
 
 
-## UGSNet  (Soon available)
+## UGSNet
 ![framework](imgs/DL_framework.png)
 ![UGSNet](imgs/UGSNet.png)
 
